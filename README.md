@@ -3,7 +3,7 @@
 ![Banner](./imagens/banners/pexels-cookiecutter-1148820.jpg)
 
 
-### Anderson Brito de Figueiredo
+### Silvana Barbosa Ribeiro
 
 👋 Bem-vindo ao meu portfólio de Database Administration (DBA)! Aqui você encontrará o projeto que refletem minha jornada de aprendizado e aplicação prática em banco de dados para construção de um sistema de Discoteca. Este espaço foi criado para compartilhar conhecimentos, soluções e experiências que demonstram minha paixão por dados e minha dedicação em transformá-los em valor para as organizações.
 
