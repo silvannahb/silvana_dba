@@ -1,6 +1,6 @@
 # Portfólio de Database Administration (DBA)
 
-![Banner](./imagens/banners/pexels-cookiecutter-1148820.jpg)
+![Banner](./imagens/banners/banco-de-dados.jpg)
 
 
 ### Silvana Barbosa Ribeiro
